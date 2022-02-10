@@ -1,4 +1,6 @@
-### Welcome 👋
+### Hello! Welcome 👋
+
+I'm **Kpakpo**, a web developer based in Rennes (France). 
 
 <!--
 **Kpakpo5/Kpakpo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
