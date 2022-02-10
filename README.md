@@ -2,6 +2,11 @@
 
 I'm **Kpakpo**, a web developer based in Rennes (France). 
 
+Techs i've used so far :
+![image](https://user-images.githubusercontent.com/64009697/153446108-431b698f-29db-4a4f-823c-e0dcd3e24f0b.png)
+![image](https://user-images.githubusercontent.com/64009697/153446649-190f38d0-a8da-4fd4-8b3d-63a220a84df5.png)
+
+
 <!--
 **Kpakpo5/Kpakpo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
