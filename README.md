@@ -1,8 +1,8 @@
 ## Hello! Welcome 👋
 
-I'm **Kpakpo**, a web developer based in Rennes (France).
+I'm **Kpakpo**, a junior web developer based in Rennes (France).
 
-I'm into Web related technologies and work everyday to improve my skills and be a better developer.
+I'm into Web related technologies and I learn and work everyday in order to reach my main goal which is to be a better developer than the day before.
 
 ### Languages and techs i've used so far :
 
