@@ -2,7 +2,7 @@
 
 I'm **Kpakpo**, a junior web developer based in Rennes (France).
 
-I'm into Web related technologies and I learn and work everyday in order to reach my main goal which is to be a better developer than the day before.
+I'm into Web related technologies and I learn and work everyday in order to reach my main goal, which is to be a better developer than the day before.
 
 ### Languages and techs i've used so far :
 
